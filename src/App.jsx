@@ -41,10 +41,10 @@ export default function App() {
 				/>
 				<div className='text-4xl font-bold my-4'>Ok yay!!!</div>
 				<a
-					href='https://wa.me/+919469143516?text=Hello%20there!'
-					className='`bg-green-500 hover:bg-green-700 text-white font-bold py-2 px-4 rounded mr-4'
+					href='https://wa.me/+919419143516?text=Yes,%20I%20will%20be%20your%20valentine%20❤️'
+					className='bg-green-500 hover:bg-green-700 text-white font-bold py-2 px-4 rounded mr-4'
 				>
-					Let's chat?
+					Now, come over here
 				</a>
 			</div>
 		);
