@@ -1,4 +1,5 @@
 import { useState } from 'react';
+import Quote from './components/Quote';
 
 export default function App() {
 	const [noCount, setNoCount] = useState(0);
@@ -39,10 +40,10 @@ export default function App() {
 					src='https://media.tenor.com/gUiu1zyxfzYAAAAi/bear-kiss-bear-kisses.gif'
 					alt='Bear Kiss'
 				/>
-				<div className='text-4xl font-bold my-4'>Ok yay!!!</div>
+				<Quote />
 				<a
-					href='https://wa.me/+919419143516?text=Yes,%20I%20will%20be%20your%20valentine%20❤️'
-					className='bg-green-500 hover:bg-green-700 text-white font-bold py-2 px-4 rounded mr-4'
+					href='https://wa.me/+919469143516?text=Yes,%20I%20will%20be%20your%20valentine%20❤️'
+					className='bg-green-500 hover:bg-green-700 text-white font-bold py-2 px-4 rounded mr-4 mt-10'
 				>
 					Now, come over here
 				</a>
