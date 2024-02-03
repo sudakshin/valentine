@@ -40,6 +40,12 @@ export default function App() {
 					alt='Bear Kiss'
 				/>
 				<div className='text-4xl font-bold my-4'>Ok yay!!!</div>
+				<a
+					href='https://wa.me/+919469143516?text=Hello%20there!'
+					className='`bg-green-500 hover:bg-green-700 text-white font-bold py-2 px-4 rounded mr-4'
+				>
+					Let's chat?
+				</a>
 			</div>
 		);
 	} else {
